@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NEWS lenss",
+  "description": "NEWS lenss is an application that uses AI to analyze news articles for stylistic indicators of misinformation and provides fact-checking capabilities using Google Search grounding.",
+  "requestFramePermissions": []
+}
